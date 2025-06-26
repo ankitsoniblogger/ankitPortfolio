@@ -7,7 +7,7 @@
     },
     "about": {
         "heading": "Hello, There! 👋🏻",
-        "description": "I am Ankit Soni, highly motivated and skilled WordPress Developer with over 3 years of experience in developing and managing WordPress websites. I have proficient in developing custom WordPress themes and plugins, as well as integrating third-party plugins and tools. I have also experienced in optimizing WordPress websites for search engines and improving their performance.",
+        "description": "I'm Ankit soni,  a highly skilled and results-driven Web Developer and Digital Marketer with over 5 years of experience in custom website development, WordPress solutions, social media marketing, and running successful paid ad campaigns. I specialize in building high-performance, SEO-optimized websites tailored to business goals, developing custom themes and plugins, and integrating third-party tools. Alongside web development, I help brands grow online through strategic digital marketing, including Facebook, Instagram, TikTok, and Google Ads.",
         "button": "Let's Talk With Me!"
     },
     "work": {
@@ -16,49 +16,49 @@
         "portfolio": [
             {
                 "id": 1,
-                "img": "https://ankitsoni.in/project/cygnet.jpg",
+                "img": "/src/assets/projects/cygnet.jpg",
                 "text": "Cygnet Technology - Website Developement Agency",
                 "url": "https://cygnettechnology.com"
             },
             {
                 "id": 2,
-                "img": "https://ankitsoni.in/project/Kyfer.jpg",
+                "img": "/src/assets/projects/Kyfer.jpg",
                 "text": "Kyfer Company Portfolio",
                 "url": "https://kyfer.ltd/"
             },
             {
                 "id": 3,
-                "img": "https://ankitsoni.in/project/kk.jpg",
+                "img": "/src/assets/projects/kk.jpg",
                 "text": "KK Tours & Travels - Explore the World with KK Tours & Travels",
                 "url": "https://kk-tours.com/"
             },
             {
                 "id": 4,
-                "img": "https://ankitsoni.in/project/Durgesh%20Soni.jpg",
+                "img": "/src/assets/projects/Durgesh%20Soni.jpg",
                 "text": "Dugesh Soni -  Backend Developer | Portfolio Website ",
                 "url": "https://durgeshsoni.com/"
             },
             {
                 "id": 5,
-                "img": "https://ankitsoni.in/project/Almahira.jpg",
+                "img": "/src/assets/projects/Almahira.jpg",
                 "text": "ALMAHIRA PROJECT MANAGEMENT SERVICES CO.",
                 "url": "https://almahira.me"
             },
             {
                 "id": 6,
-                "img": "https://ankitsoni.in/project/Aspire%20%26%20Glee.jpg",
+                "img": "/src/assets/projects/Aspire%20%26%20Glee.jpg",
                 "text": "Aspire and Glee - Let's Intend To Spread Smiles",
                 "url": "https://aspireandglee.com"
             },
             {
                 "id": 7,
-                "img": "https://ankitsoni.in/project/casa.jpg",
+                "img": "/src/assets/projects/casa.jpg",
                 "text": "CASA Interior - Bringing Your Visions to Life with Casa Interior",
                 "url": "https://casainterior.casa"
             },
             {
                 "id": 8,
-                "img": "https://ankitsoni.in/project/Round%20Point%20Tech.jpg",
+                "img": "/src/assets/projects/Round%20Point%20Tech.jpg",
                 "text": "Round Point Tech",
                 "url": "https://roundpointtech.com/"
             }

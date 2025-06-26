@@ -9,9 +9,7 @@ const Header = () => {
         {data.intro.logo}
       </h1>
       <button
-        onClick={() =>
-          (window.location = "https://ankitsoni.in/project/resume.pdf")
-        }
+        onClick={() => (window.location = "/src/assets/ankitSoniResume.pdf")}
         className="flex items-center gap-1 justify-center text-xs bg-black px-4 rounded-full cursor-pointer"
       >
         <Icon icon="material-symbols:download" />
